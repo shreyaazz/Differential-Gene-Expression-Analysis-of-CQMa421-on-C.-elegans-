@@ -43,7 +43,7 @@ Raw RNA-seq data were retrieved from the public domain:
 
 
 **Citation:**  
-Zhou, X., et al. (2024). Transcriptome analysis of Metarhizium anisopliae CQMa421 in nematode treatment. NCBI BioProject PRJNA1160025 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1160025
+Cheng, C., Zhang, R., Wang, Y., Yang, S., Yu, W., & Xia, Y. (2024). Transcriptome analysis of Metarhizium anisopliae CQMa421 in nematode treatment. NCBI BioProject PRJNA1160025 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1160025
 
 
 
